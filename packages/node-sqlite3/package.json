@@ -7,7 +7,7 @@
     "test": "./test"
   },
   "scripts": {
-    "test": "mocha && rm ./db/test.db"
+    "test": "mocha"
   },
   "engines": {
     "node": ">=10.0.0"
